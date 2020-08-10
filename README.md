@@ -1,9 +1,9 @@
 
 
--> React-based front-end for a full-stack web application. The application uses the Clarifai Face Detection API to detect the first-face it encounters in a given image - slight changes can be made to detect all faces. <br/>
-->Includes fully functional registration system along with a functionality to count the number of queries executed by a given user. <br/>
--> Server-side API created in Node and Express available [here.](https://github.com/chettriyuvraj/facerecognition-api) <br/>
--> Front-end hosted @ Github pages. Back-end and server on Heroku.<br/>
+-> React-based front-end for a full-stack web application. The application uses the Clarifai Face Detection API to detect the first-face it encounters in a given image - slight changes can be made to detect all faces. <br/> <br/> 
+->Includes fully functional registration system along with a functionality to count the number of queries executed by a given user. <br/><br/> 
+-> Server-side API created in Node and Express available [here.](https://github.com/chettriyuvraj/facerecognition-api) <br/><br/> 
+-> Front-end hosted @ Github pages. Back-end and server on Heroku.<br/><br/> 
 
 The application can be accessed [here.](https://chettriyuvraj.github.io/facerecognition/)
 
