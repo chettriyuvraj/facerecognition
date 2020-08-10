@@ -5,14 +5,11 @@
 -> Server-side API created in Node and Express available [here.](https://github.com/chettriyuvraj/facerecognition-api) <br/><br/> 
 -> Front-end hosted @ Github pages. Back-end and server on Heroku.<br/><br/> 
 
-The application can be accessed [here.](https://chettriyuvraj.github.io/facerecognition/)
+The application can be accessed [here.](https://chettriyuvraj.github.io/facerecognition/)<br/><br/>
 
-
-
-
-
-
-
+Note: To clone and run the front-end on your machine - change all instances of fetch requests in the React components to the heroku server to 'localhost:3000/<endpoint>' in the front-end code. 
+For eg: localhost:3000/register or localhost:3000/signin
+      
 
 
 
